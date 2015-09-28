@@ -1,0 +1,17 @@
+{
+  "name": "assignment-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assignment-5.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "express": "^4.13.3",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shailesh",
+  "license": "ISC"
+}
