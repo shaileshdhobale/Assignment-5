@@ -4,7 +4,7 @@
   "description": "",
   "main": "Assignment-5.js",
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^3.2.2",
     "express": "^4.13.3",
     "fs": "^0.0.2"
   },
